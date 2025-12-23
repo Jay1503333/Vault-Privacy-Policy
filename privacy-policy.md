@@ -1,52 +1,74 @@
-Privacy Policy for Vault
-Last updated: [12/23/2025]
-Overview
-Vault is a privacy-focused application designed to securely store photos and videos using encryption on your device. Your privacy is a core principle of the app. Vault is designed so that we cannot access, view, or recover your encrypted content.
-Information We Collect
-Vault does not collect, transmit, or store your personal photos, videos, or vault passwords on our servers.
+# Privacy Policy for Vault
+
+**Last updated:** December 23, 2025
+
+## Overview
+Vault is a privacy-focused application designed to securely store photos and videos using encryption on your device. Your privacy is a core principle of the app. Vault is designed so that **we cannot access, view, or recover your encrypted content**.
+
+## Information We Collect
+Vault does **not** collect, transmit, or store your personal photos, videos, or vault passwords on any developer-controlled servers.
+
 Specifically:
-We do not collect media content.
-We do not collect passwords or recovery keys.
-We do not collect personal identifiers such as name, email address, or contacts.
-Data Stored on Your Device
-Vault stores the following locally on your device:
-Encrypted photos and videos you choose to store in the app
-Encrypted vault metadata required for app functionality
-App settings (such as backup preferences)
+- We do **not** collect media content
+- We do **not** collect passwords or recovery keys
+- We do **not** collect personal identifiers such as name, email address, or contacts
+
+## Data Stored on Your Device
+Vault stores the following **locally on your device**:
+- Encrypted photos and videos you choose to store in the app
+- Encrypted vault metadata required for app functionality
+- App settings (such as backup preferences)
+
 All sensitive content is encrypted at rest on your device.
-Encryption & Security
+
+## Encryption & Security
 Vault uses modern cryptographic techniques to encrypt your data locally.
-Encryption keys are derived from passwords you provide and/or a recovery key you generate.
-Vault cannot recover lost passwords or recovery keys.
-If you lose your password and recovery key, your data cannot be accessed.
+
+- Encryption keys are derived from passwords you provide and/or a recovery key you generate
+- Vault cannot recover lost passwords or recovery keys
+- If you lose your password and recovery key, your data cannot be accessed
+
 You are responsible for safeguarding your password and recovery key.
-Backups & Data Export
-Vault allows you to export encrypted backups of your data to a location you choose (such as a folder on your device or a cloud-synced folder).
+
+## Backups & Data Export
+Vault allows you to export encrypted backups of your data to a location you choose, such as a folder on your device or a cloud-synced folder.
+
 Important notes:
-Backups are created only when you explicitly initiate them or enable automatic backup.
-Backups remain encrypted.
-We do not receive or store your backup data.
-Subscriptions & Payments
+- Backups are created only when you explicitly initiate them or enable automatic backup
+- Backups remain encrypted
+- We do not receive or store your backup data
+
+## Subscriptions & Payments
 Vault may offer optional premium features via a subscription.
-Payments and subscriptions are processed by Google Play Billing.
-Vault does not collect or store payment information.
-Subscription status is used only to enable or disable premium features.
+
+- Payments and subscriptions are processed by **Google Play Billing**
+- Vault does not collect or store payment information
+- Subscription status is used only to enable or disable premium features
+
 You can manage or cancel your subscription through your Google Play account.
-Data Sharing
-Vault does not sell, share, or transmit your personal data to third parties.
+
+## Data Sharing
+Vault does **not** sell, share, or transmit your personal data to third parties.
+
 The app does not include:
-Advertising SDKs
-Analytics SDKs that collect personal data
-Third-party trackers
-Data Deletion
+- Advertising SDKs
+- Analytics SDKs that collect personal data
+- Third-party tracking technologies
+
+## Data Deletion
 You control your data.
-You may delete content from within the app at any time.
-Uninstalling the app removes all locally stored data.
-Because data is encrypted and stored locally, we cannot recover it after deletion.
-Children’s Privacy
+
+- You may delete content from within the app at any time
+- Uninstalling the app removes all locally stored data
+- Because data is encrypted and stored locally, we cannot recover it after deletion
+
+## Children’s Privacy
 Vault is not designed for use by children under the age of 13. We do not knowingly collect personal information from children.
-Changes to This Policy
+
+## Changes to This Policy
 This Privacy Policy may be updated from time to time. Changes will be reflected by updating the “Last updated” date at the top of this policy.
-Contact
+
+## Contact
 If you have questions about this Privacy Policy, you may contact the developer at:
-Email: [jausmus15@yahoo.com]
+
+**Email:** jausmus15@yahoo.com
