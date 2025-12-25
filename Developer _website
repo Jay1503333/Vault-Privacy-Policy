@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Vault – App Information</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Official information page for the Vault mobile application.">
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      background-color: #0f172a;
+      color: #e5e7eb;
+      margin: 0;
+      padding: 24px;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      background-color: #020617;
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 12px;
+      padding: 24px;
+    }
+    h1 {
+      margin-top: 0;
+      font-size: 28px;
+    }
+    p {
+      color: #cbd5f5;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    a {
+      color: #60a5fa;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .footer {
+      margin-top: 32px;
+      font-size: 14px;
+      color: #94a3b8;
+      border-top: 1px solid rgba(255,255,255,0.08);
+      padding-top: 16px;
+    }
+    code {
+      background-color: rgba(255,255,255,0.08);
+      padding: 2px 6px;
+      border-radius: 6px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Vault</h1>
+
+    <p>
+      This page provides official information and policy documents for the
+      <strong>Vault</strong> mobile application.
+    </p>
+
+    <p>
+      Vault is a private, on-device media vault application for storing photos
+      and videos behind a user-defined password.
+    </p>
+
+    <p>
+      Android package name:
+      <br>
+      <code>com.trusentry.vault</code>
+    </p>
+
+    <h2>Legal & Policy Documents</h2>
+    <ul>
+      <li>
+        <a href="https://jay1503333.github.io/Vault-Privacy-Policy/privacy-policy.html" target="_blank" rel="noopener">
+          Privacy Policy
+        </a>
+      </li>
+      <li>
+        <a href="https://jay1503333.github.io/Vault-Privacy-Policy/terms-of-use.html" target="_blank" rel="noopener">
+          Terms of Use
+        </a>
+      </li>
+    </ul>
+
+    <h2>Support & Contact</h2>
+    <p>
+      For support questions or policy inquiries, contact:
+      <br>
+      <a href="mailto:trusentryllc@gmail.com">trusentryllc@gmail.com</a>
+    </p>
+
+    <div class="footer">
+      © 2025 Vault. All rights reserved.
+    </div>
+  </div>
+
+</body>
+</html>
